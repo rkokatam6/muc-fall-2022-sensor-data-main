@@ -12,4 +12,4 @@ def plot_data(data):
     plt.show()
 
 
-# plot_data("test.csv")
+plot_data("walking_steps_1.csv")
